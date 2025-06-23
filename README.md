@@ -1,1 +1,1 @@
-My First Hibearnate Project
+My First Hibernate Project
